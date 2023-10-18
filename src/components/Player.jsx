@@ -23,7 +23,7 @@ const Player = () => {
                     </div>
                     <div className="leading-none">
                         <div className="text-lg font-medium">Mia Reynolds</div>
-                        <div className="text-sm font-light">Freedom</div>
+                        <div className="text-sm font-light">DŽANUM</div>
                     </div>
                 </div>
                 {/* player */}
@@ -34,7 +34,7 @@ const Player = () => {
                         color="#fff"
                         volume={40}
                         volumePlacement="top"
-                        src="/assets/freedom.mp3"
+                        src="/assets/TEYA DORA-DŽANUM.mp3"
                         width='100%'
                         backgroundColor="transparent"
                         boxShadow="none"
